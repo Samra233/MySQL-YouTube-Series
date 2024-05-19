@@ -14,7 +14,7 @@ GROUP BY gender
 
 SELECT first_name
 FROM employee_demographics
-GROUP BY gender
+GROUP BY first_name
 ;
 
 
